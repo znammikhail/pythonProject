@@ -1,0 +1,20 @@
+<StudentList>
+    <student id="1">
+        <firstName>Masha</firstName>
+        <certificate>True</certificate>
+        <score>
+            <module1>50</module1>
+            <module2>50</module2>
+            <module3>50</module3>
+        </score>
+    </student>
+    <student id="2">
+        <firstName>Misha</firstName>
+        <certificate>True</certificate>
+        <score>
+            <module1>50</module1>
+            <module2>50</module2>
+            <module3>50</module3>
+        </score>
+    </student>
+</StudentList>
